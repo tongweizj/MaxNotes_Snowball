@@ -36,7 +36,7 @@ Genomic Revolution ETF 投资基因治疗，分子医疗和制药领域的创新
 
 由于这些ETF的业绩非常出色，并且会公布每日持仓，短线散户颇为喜欢观察其持仓和操作。凯瑟琳也常被这些粉丝称为女神。
 
-
+![](../../imgs/ark-1.png)
 
 ### 2.1. [ARKK](https://ark-funds.com/wp-content/fundsiteliterature/holdings/ARK_INNOVATION_ETF_ARKK_HOLDINGS.pdf) 
 

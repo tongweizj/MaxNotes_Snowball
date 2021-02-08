@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-02-08 08:33:33
- * @LastEditTime: 2021-02-08 08:36:15
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /MaxNotes_Snowball/财富知识/退休方案/必备知识.md
--->
-
 # 退休前必须准备好的知识和技能
 
 这是一个索引，不是文档
@@ -55,3 +46,33 @@
 #### 加拿大
 
 #### 中国
+
+
+
+
+
+目录
+副业
+投资笔记
+
+人生道路
+好好学习 自己打造一门生意 用恰当的钱做投资
+
+
+## 财务自由 
+
+
+
+
+
+
+
+
+
+
+
+投资账户
+
+- 鑫鑫的大学账户
+- 静静的退休理财账户
+- 童玮的退休理财账户
